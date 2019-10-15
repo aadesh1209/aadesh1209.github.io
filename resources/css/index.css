@@ -228,7 +228,7 @@ h1 {
     width: 30%;
     position: relative;
     top: 25%;
-    left: 8%;
+    left: 84444444%;
     padding: 15px;
     margin: 0;
 }
@@ -269,4 +269,7 @@ h1 {
     .nav-links {
         width: 65%;
     }
+    .parallax {
+        background-attachment: scroll;
+      }
 }
